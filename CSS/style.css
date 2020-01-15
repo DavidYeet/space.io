@@ -1,0 +1,16 @@
+a:link, a:visited {
+  color: #E2C044;
+}
+
+a:hover{
+  color: #432B72;
+  background-color: #E2C044;
+}
+
+.body {
+  font-family:'Roboto', sans-serif;
+}
+
+.table {
+  
+}
